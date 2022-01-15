@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 發夢家
+- 👋 Hi, I’m Wonderer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to build a personal blog
 - 💞️ I’m looking to collaborate on ...
