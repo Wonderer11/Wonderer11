@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wonderer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to build a personal blog
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me ...
